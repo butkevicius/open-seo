@@ -73,18 +73,18 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "4abd52f3f2c549ac83cc2cb4ceec8620",
+      "id": "557dd33f7b3847afa528993009544499",
     },
     {
       "binding": "OAUTH_KV",
-      "id": "bd1759494309474a9b423b029967b0db",
+      "id": "d7547941ba934b88a4f402c51025eecd",
     },
   ],
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "open-seo",
-      "database_id": "37bee90a-e1aa-404f-b01e-b0d1d479bda1",
+      "database_id": "f11d486b-ec9a-45ec-b9e7-c9325a12e7d6",
       "migrations_dir": "drizzle",
     },
   ],
